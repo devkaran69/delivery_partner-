@@ -1,0 +1,87 @@
+{
+  "project_info": {
+    "project_number": "783670054153",
+    "firebase_url": "https://mins-fashion-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "mins-fashion",
+    "storage_bucket": "mins-fashion.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783670054153:android:7938beecb1a0ad138197d8",
+        "android_client_info": {
+          "package_name": "com.fashion.app60mins"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6ve7a_TTxYPIVq3Uu1k2urNN9fXuNV6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783670054153:android:3b6dd61b9ccabf558197d8",
+        "android_client_info": {
+          "package_name": "com.febboo.delivery.delivery_partner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6ve7a_TTxYPIVq3Uu1k2urNN9fXuNV6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783670054153:android:f25cb816d1946a718197d8",
+        "android_client_info": {
+          "package_name": "com.partner60mins"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6ve7a_TTxYPIVq3Uu1k2urNN9fXuNV6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783670054153:android:eb0c7eacaf6b06658197d8",
+        "android_client_info": {
+          "package_name": "com.sixtymins.fashion.sixtymins_fashion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6ve7a_TTxYPIVq3Uu1k2urNN9fXuNV6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
